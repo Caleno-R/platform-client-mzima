@@ -726,6 +726,7 @@
   },
   "share": {
     "share_deployment": "Share deployment",
+    "share_post": "Share post",
     "web_address": "You survey's web address",
     "embed_on_websites": "HTML embed on websites",
     "copied": "Copied!",
@@ -837,6 +838,7 @@
     "my_posts_desc": "Your posts",
     "unknown_posts_desc": "Posts with no assigned survey",
     "image_is_required": "Image is required",
+    "image_max_size": "Image exceed max file size",
     "locking": {
       "unlocked": "Post successfully unlocked",
       "unlock": "Unlock",
@@ -1741,7 +1743,8 @@
       "destroy_error": "Unable to delete category, please try again",
       "bulk_destroy_confirm": "Are you sure you want to delete {{count}} categories?",
       "bulk_destroy_confirm_desc": "Deleting these categories will remove them from all existing posts. This action cannot be undone.",
-      "bulk_destroy_success": "{{count}} categories deleted"
+      "bulk_destroy_success": "{{count}} categories deleted",
+      "bulk_destroy_success_countless": "Categories deleted"
     },
     "role": {
       "delete_question": "Are you sure you want to delete the role?",
